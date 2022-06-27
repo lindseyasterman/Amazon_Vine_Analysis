@@ -27,6 +27,6 @@ I again used PySpark to filter the data to determine if there is bias toward fav
 
 ### Summary: 
 There does not appear to be a positivity bias for reviews in the Vine program. In fact, paid reviews showed a lower percentage of 
-5 star ratings. To further study the data, we could filter the data for verified purchases. This would help to remove possible fruadulent reveiws.
-This data set contained very few reveiws from the vine program. It would be important to perform this same process 
-on another dataset to see if the results are the same with a larger sample of vine reviews. 
+5 star ratings. To further study the data, we could filter the data for verified purchases. This would help to remove possible fraudulent reviews.
+This data set contained very few reviews from the vine program. It would be important to perform this same process 
+on another dataset to see if the results are the same with a larger sample to study. 
